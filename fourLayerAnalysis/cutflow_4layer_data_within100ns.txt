@@ -1,0 +1,16 @@
+atLeastOneHitPerLayer, 2.52697e+06
+oneHitPerLayer, 731146
+triggerablePath, 715091
+panelVeto, 615622
+firstPulseMax, 368791
+pulseTimeSelection, 246861
+maxminBarNpe, 93956
+timingSelection, 4897
+slabMuonveto, 4892
+NSlabs0, 4780
+NSlabs1, 112
+Region1, 2246
+Region2, 937
+Region3, 64
+Region4, 11
+Region5, 1
